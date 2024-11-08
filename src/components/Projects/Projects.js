@@ -66,7 +66,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+           
               isBlog={false}
               title="MobiTV"
               description="•	Developed single-page applications in Angular and ReactJS for the telecommunications domain, emphasizing mobile-first design principles and responsive layouts. Worked for US based Clients extensively.
@@ -80,7 +80,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+            
               isBlog={false}
               title="Acrolinx"
               description="•	Pioneered the integration of a spell checker application, demonstrating my ability to lead projects from conception to completion while ensuring high-quality standards. Worked for German based client.
@@ -93,7 +93,7 @@ User can use this lightweight Acrolinx editor to check content in various format
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+            
               isBlog={false}
               title="Totalmedia"
               description="Totalmedia is a video-on-demand platform that allows users to browse, watch, and manage a personalized collection of movies and TV shows. Designed with a user-centric approach, the interface prioritizes seamless navigation, rich media previews, and engaging content recommendations, mirroring the core functionalities of popular streaming services like Netflix. Built using Angular, typescript and bootstrap"
