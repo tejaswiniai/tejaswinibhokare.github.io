@@ -36,7 +36,7 @@ function Home() {
                 </h2>
 
               <div style={{ padding: 50, textAlign: "left" }}>
-              Senior Frontend Engineer with over 10 years of experience designing and developing responsive, <br></br> high-performance web applications using modern frameworks and tools. <br></br> Proficient in React, Angular, and Vue, with extensive hands-on experience in UI/UX design using Figma. Skilled in optimizing applications with Next.js and Nuxt, <br></br>and deploying seamlessly to production with Netlify. Known for delivering scalable, maintainable code and creating dynamic, user-centered applications.
+              Senior Fullstack Engineer with over 10 years of experience designing and developing responsive, <br></br> high-performance web applications using modern frameworks and tools.<br></br> <br></br> Proficient in React, Angular, and Vue, with extensive hands-on experience in UI/UX design using Figma. <br></br><br></br> Skilled in optimizing applications with Next.js and Nuxt, <br></br>and deploying seamlessly to production with Netlify. Known for delivering scalable, maintainable code and creating dynamic, user-centered applications.
               </div>
             </Col>
 
