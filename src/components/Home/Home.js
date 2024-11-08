@@ -49,6 +49,48 @@ function Home() {
               />
             </Col>
           </Row>
+          <Row>
+            <Col>
+            <h1 className="heading-name">
+                
+                Work Experience:
+              </h1>
+              <br></br>
+            </Col>
+            <Col md={8}>
+              <h5> Curiouser.ai, Remote <br></br>
+Senior Full Stack Engineer<br></br>
+July 2024 – Till date
+</h5><br></br>
+ <h5> Cognizant Technology Solutions, India <br></br>
+Senior Associate<br></br>
+Jan 2016 – October 2017
+
+</h5><br></br>
+ <h5> Persistent Systems Limited, India <br></br>
+Module Lead<br></br>
+Nov 2012 – Jan 2016
+
+</h5><br></br>
+ <h5> Cybage software limited, India<br></br>
+Senior Software Engineer<br></br>
+April 2011 – March 2012
+
+</h5><br></br>
+ <h5> Niche Software solutions, India<br></br>
+Senior Software Engineer <br></br>
+Feb 2010 – April 2011
+
+</h5><br></br>
+
+<h5> WebworxIndia Pvt Ltd, India<br></br>
+Senior Software Engineer<br></br>
+Jan 2007 – Feb 2010
+
+
+</h5><br></br>
+            </Col>
+          </Row>
         </Container>
       </Container>
   

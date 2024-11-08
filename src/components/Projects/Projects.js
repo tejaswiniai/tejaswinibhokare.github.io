@@ -100,6 +100,46 @@ User can use this lightweight Acrolinx editor to check content in various format
              
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+            
+              isBlog={false}
+              title="Property Ecommerce Website"
+              description="•	Developed a dynamic dashboard with movable widgets and a transaction system generating PDFs on-the-fly, demonstrating my proficiency in PHP, MySQL, JavaScript and jQuery.
+•	Implemented a comprehensive investor registration module, highlighting my experience in developing CRUD applications and ensuring user-friendly interfaces. 
+"
+             
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+            
+              isBlog={false}
+              title="Juvlon"
+              description="•	Implemented major features in Juvoln marketing application, in which user can send mails to million subscribed users. This includes new feature in template (CMS) editor to add/edit/delete/drag/drop design different blocks to create custom design, export mailers list to user, archived reports of old sent mailers etc. Implemented using PHP, MySQL, JavaScript, html, and jQuery.
+"
+             
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+            
+              isBlog={false}
+              title="Webworx Ecommerce Projects"
+              description="•	Built five e-commerce websites end to end, incorporating PayPal systems using PHP and MySQL, showcasing my ability to create seamless online shopping experiences. This includes displaying items, add to cart functionality, checkout functionality, return to website after checkout from PayPal, admin functionality to add items from admin module.
+•	Implemented RESTful APIs in PHP and integrated MySQL databases.
+•	Worked on WordPress CMS editor and created custom themes.
+•	Wrote queries in MySQL databases with different types of joins to get optimized results in least time.
+•	Implemented site language translation features, demonstrating my understanding of internationalization and the importance of accessible web design.
+•	Implemented different markers in CMS editor like adding property marker by adding it in template it builds whole new website, search functionality marker, adding new videos feature etc.
+
+"
+             
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
