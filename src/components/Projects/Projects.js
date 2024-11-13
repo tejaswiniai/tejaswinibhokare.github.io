@@ -27,11 +27,16 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Curiouser.Ai"
-              description="•	Used Vuetify to create components like card display, modal dialogs, scrollers etc. 
-•	Design and develop these Web Applications using Vue, NodeJS, HTML/HTML5, SASS media queries.
-•	Proficient in Vue Routing, customs components to reuse common functionalities.
-•	Knowledge and worked on Contentful/netlify headless CMS to integrate blogs in the system.
-•	Integrated RESTful APIs using Axios and handled state management Pinia, optimizing data flow and performance in applications. 
+              description="•	Developed user interface using HTML5, CSS3, Vuetify, Typescript, and Vue JS that meets accessibility and web browser standards for websites.
+•	Worked with CSS3 in designing templates for use in all pages on the website working with positioning, text, padding, border, margin, CSS background and div blocks.
+•	Developed user interface by using Vuetify, Figma for SPA development.
+•	Used Vue JS single file components for data manipulations and to display data in company standard format. 
+•	Used Vue-Router to turn application into Single Page Application.
+•	Experienced in developing components also used Axios with Vuejs for making AJAX Calls.
+•	Maintained states in the stores and dispatched the actions using Pinia.
+•	Manipulated DOM, handled events and applied animation effects with Vue.js.
+•	Used Nuxt.js for Server-side rendering which optimized data loading tremendously. Used NuxtContent for displaying blogs from Medium.com of Curiouser account. Created md files to showcase all blogs using NuxtContent.
+
 "
              
             />
@@ -42,10 +47,16 @@ function Projects() {
              imgPath={curiouser}
               isBlog={false}
               title="Curiouser App Alice"
-              description="•	Created application using Vue JS, Typescript, Rest API and HTML5/CSS3.
-•	Architected and implemented complex user interfaces using Nuxt.js, achieving a 30% increase in page speed and performance.
-•	Collaborated with designers and stakeholders to bring pixel-perfect designs to life in Figma, enhancing UI consistency and usability across platforms.
-•	Optimized applications for maximum speed and scalability using lazy loading, code splitting, and server-side rendering (SSR).
+              description="•	Worked on Vue JS components, Forms, Events, Router, Animations, themes and Vuetify components.
+•	Implemented complete website curiouser.ai end to end using Vue.js, typescript, HTML5, CSS3. 
+•	Implemented video carousel to display video of selected team members. Used vuetify component slide groups to display carousel by giving input as YouTube video id.
+•	Implemented modules into NodeJS to integrate designs and requirement.
+•	Worked closely with the Back-End team and design team to display data using the Custom Components, library Components, and layout.
+•	Developed API for using AWS Amplify to manage the servers, user registrations/login and run the code in the AWS.
+•	Implemented product dashboard to display generated conversations with Alice a reflective AI. This includes showing each conversation in vuetify card and adding delete, download, progress bar for each conversation. Used Flexbox for responsive layout.
+•	Implemented product chat interface this includes ChatGPT kind of interface, in which user asks questions to Alice and she gives responses to user. Used Vuetify textarea and other components.
+•	Used Git for version controlling and regularly pushed the code to GitHub.
+
 "
               
             />
@@ -56,9 +67,16 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Barclays app"
-              description="•	Led and supervised the development of a Barclays’s banking application using ReactJS, integrating RESTful APIs for seamless data exchange between frontend and backend, demonstrating my ability to adapt and apply new technologies effectively.
-•	Developed and maintained responsive websites and web applications using ReactJS, Angular, HTML, CSS, and JavaScript.
-•	Collaborated with UI designers and backend developers to implement user interface designs and features.
+              description="•	Implemented complete banking application of Barclays end to end, focusing on user experience and responsive design, showcasing my commitment to creating intuitive interfaces. I was involved in complete SDLC right from creating POCs to successful delivery.
+•	Created different forms of Banking app including search functionality. Implemented admin section which maintains user registrations and users.
+•	Implemented login/register forms based on type of users and show navigation menu based on user type.
+•	Extensive experience in developing web pages quickly and effectively using jQuery, HTML5, CSS3, Responsive Web Design, Bootstrap and experience in making web pages cross browser compatible.
+•	Experienced in JavaScript and Typescript, also including DOM manipulation and the JavaScript object model
+•	Updated the application with popular React.js workflows.
+•	Develop front-end and UI development across multiple product sets
+•	Used newer specifications of ECMAScript in the application.
+•	Designed Responsive UI design using HTML5 and CSS3.
+
 "
                     
             />

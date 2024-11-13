@@ -39,7 +39,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          Tejaswini
+          TB
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

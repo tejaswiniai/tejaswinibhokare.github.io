@@ -40,14 +40,7 @@ function Home() {
               </div>
             </Col>
 
-            <Col md={5} style={{ paddingBottom: 20 }}>
-              <img
-                src={homeLogo}
-                alt="home pic"
-                className="img-fluid"
-                style={{ maxHeight: "450px" }}
-              />
-            </Col>
+           
           </Row>
           <Row>
             <Col>
@@ -58,7 +51,7 @@ function Home() {
               <br></br>
             </Col>
             <Col md={8}>
-              <h5> Curiouser.ai, Remote <br></br>
+              <h5> Curiouser.ai, California, USA <br></br>
 Senior Full Stack Engineer<br></br>
 July 2024 – Till date
 </h5><br></br>
